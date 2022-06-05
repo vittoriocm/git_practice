@@ -10,4 +10,4 @@ Markdown is used to quickly format text without the need to use HTML. To indicat
 - bullet 
 - bullet 
 
-sample [link] (https://www.google.com/)
+sample [link](https://www.google.com/)
